@@ -3,7 +3,7 @@
 ## Usage
 
 ```agsl
-git clone https://github.com/dimasmaulanaach/php-nginx-postgresql-docker.git
+git clone https://github.com/dimasmaulana-ach/php-nginx-postgresql-docker.git
 cd php-nginx-postgresql-docker
 ```
 
