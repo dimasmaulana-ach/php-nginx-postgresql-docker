@@ -2,7 +2,7 @@
 $_username = "user";
 $_password = "password";
 $_host = "10.89.3.1";
-$_database = "toko_online";
+$_database = "postgres";
 $_port = "6543";
 
 try {
