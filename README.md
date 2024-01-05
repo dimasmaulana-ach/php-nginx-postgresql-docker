@@ -25,3 +25,4 @@ open a browser then access http://localhost:8080
 all php code is in the app directory
 
 ## License
+MIT License
